@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Jivika Tolani 👋
 
-<!--
-**jivika-tolani/jivika-tolani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineering Student @ TSEC Mumbai | Cybersecurity & GRC**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 3rd year CE student, graduating 2028  
+🔐 Google Cybersecurity Certified (July 2026)  
+🎯 Targeting GRC internships | ISO 27001 · DPDPA · Singapore PDPA  
+🌏 Long-term goal: Singapore fintech/cloud security GRC  
+🀄 Learning Mandarin — targeting HSK 4 by December 2026  
+
+---
+
+## 🛠️ Projects
+
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| [GRC Compass v2](#) | AI-powered policy gap analyser — ISO 27001 + DPDPA + Singapore PDPA | Python, Gemini API | 🔨 Building |
+| [Log Anomaly Detector](#) | CLI tool detecting suspicious patterns in system logs | Python | ✅ Live |
+
+---
+
+## 📚 Currently
+
+- 🔨 Building GRC Compass v2 — AI-powered multi-framework compliance tool
+- 📖 Studying for CC (ISC)²
+- 🀄 Mandarin HSK 4 prep
+
+---
+
+## 🧰 Skills
+
+`Python` `Java` `SQL` `Linux` `ISO 27001` `NIST CSF` `DPDPA` 
+`Risk Assessment` `Gap Analysis` `SIEM` `Incident Response` `Git`
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-ID-HERE)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jivika.tolani@gmail.com)
