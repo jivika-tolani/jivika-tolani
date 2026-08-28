@@ -6,7 +6,7 @@
 
  3rd year CE student, graduating 2028  
  Google Cybersecurity Certified (July 2026)  
- Targeting GRC internships | ISO 27001 · DPDPA 
+ 
  
 
 ---
