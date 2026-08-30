@@ -40,13 +40,5 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
 
-### 🔍 Featured Work & Security Projects
-
-| Project | Focus Area | Description |
-| :--- | :--- | :--- |
-| **Secure Management Platform** | Backend & RBAC | Multi-tenant backend built with secure session handling, granular role-based permissions and encrypted data storage. |
-| **Log Analysis & Audit Pipeline** | Security Ops / GRC | Automated parsing and aggregation pipeline to flag anomalous access attempts and map events to NIST controls. |
-| **Compliance & Threat Matrix** | GRC & Risk Analysis | A repository containing structured risk assessments, threat modeling templates and policy documentation frameworks. |
 
