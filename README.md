@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=180&section=header&text=Security%20%26%20Backend%20Engineer&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" />
+
 
   <p align="center">
     <strong>Bridging Secure Backend Engineering, Risk Management and Cloud Defenses.</strong>
