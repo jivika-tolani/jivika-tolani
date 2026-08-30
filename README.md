@@ -1,44 +1,34 @@
+# Jivika Tolani
 
+Computer Engineering student at Thadomal Shahani Engineering College (TSEC), Mumbai, pursuing Governance, Risk, and Compliance (GRC) as a self-directed specialization alongside backend engineering.
 
-  <p align="center">
-    <strong>Bridging Secure Backend Engineering, Risk Management and Cloud Defenses.</strong>
-  </p>
+I build working systems that translate security and regulatory requirements into automated checks — then test them rigorously enough to trust the result.
 
-  <p align="center">
-    <a href="www.linkedin.com/in/jivika-tolani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:jivika.tolani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  </p>
-</div>
+**Contact:** [LinkedIn](https://linkedin.com/in/jivika-tolani) · [jivika.tolani@gmail.com](mailto:jivika.tolani@gmail.com)
 
 ---
 
-### 🛡️ About Me
+## Projects
 
-- 🔐 **Focus Areas:** Governance, Risk & Compliance (GRC), Defensive Security / SOC Workflows and Secure API Development.
-- 🏗️ **Architecture Philosophy:** Designing resilient backends with zero-trust principles, robust RBAC, input sanitization and audit logging by default.
-- 📜 **Frameworks & Standards:** Familiar with DPDPA 2023, ISO/IEC 27001, SOC 2 principles and OWASP Top 10 mitigation.
+**[DPDPA 2023 Consent Lifecycle & Retention Enforcer](https://github.com/jivika-tolani/dpdpa-consent-engine)**
+Backend service automating the conflict between India's data protection law and other statutes requiring longer retention. 46 tests, hash-chained tamper-evident audit log, CI on every push.
+
+**[CI/CD Compliance & Quality Linter](https://github.com/jivika-tolani/cicd-compliance-linter)**
+Python CLI tool that scans repositories for security risks and maps findings directly to ISO/IEC 27001 and SOC 2 controls, running on every commit via GitHub Actions.
+
+**[Log Anomaly Detector](https://github.com/jivika-tolani/log-anomaly-detector)**
+CLI tool applying 3 independent detection rules to log files — failed-login bursts, off-hours access, privilege escalation. 33 tests, pip-installable, CI pipeline.
+
+**[Notion AI TPRM Vendor Assessment](https://github.com/jivika-tolani/notion-ai-tprm-audit)** *(in progress)*
+Third-party risk assessment of a SaaS vendor's security and AI data practices against DPDPA and RBI outsourcing requirements.
+
+**[FlatMate](https://github.com/jivika-tolani/FlatMate-backend)** *(team project)*
+Backend for a society management system — Spring Boot, MVC architecture, Hibernate ORM, PostgreSQL, with Grafana Loki log aggregation.
 
 ---
 
-### 🛠️ Technical Stack & Tooling
+## Skills
 
-**GRC, Security & Auditing**
-![NIST](https://img.shields.io/badge/NIST%20CSF-005A9C?style=flat-square&logo=security&logoColor=white)
-![ISO 27001](https://img.shields.io/badge/ISO%2027001-2E7D32?style=flat-square&logo=shield&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-
-**Backend & Architecture**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
-
-**DevOps & Security Ops**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-
-
+**Frameworks & Regulations:** ISO/IEC 27001, SOC 2, DPDPA 2023, RBI Directions, NIST AI RMF
+**Languages:** Python, Java, SQL
+**Tools:** FastAPI, Spring Boot, Hibernate, PostgreSQL, Git/GitHub, GitHub Actions, Grafana Loki, Linux
