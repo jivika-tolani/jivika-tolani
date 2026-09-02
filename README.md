@@ -2,7 +2,7 @@
 
 Computer Engineering student at Thadomal Shahani Engineering College (TSEC), Mumbai, pursuing Governance, Risk, and Compliance (GRC) as a self-directed specialization alongside backend engineering.
 
-I build working systems that translate security and regulatory requirements into automated checks — then test them rigorously enough to trust the result.
+I build working systems that translate security and regulatory requirements into automated checks then test them rigorously enough to trust the result.
 
 **Contact:** [LinkedIn](https://linkedin.com/in/jivika-tolani) · [jivika.tolani@gmail.com](mailto:jivika.tolani@gmail.com)
 
